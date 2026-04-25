@@ -76,7 +76,7 @@ Per-conversation keys, never stored server-side.
 
 # ChathaPop Ecosystem Native Utility Token 
 
-1,000,000,000 Total Supply 
+100,000,000,000 Total Supply 
 
 Stellar Network 
 
@@ -90,7 +90,6 @@ SAC (Soroban) Standard
 ● Staking Rewards Pool 20% 
 ● Development & Team 10% 
 ● Ecosystem & Partnerships 10%
-
 
 # MethodologyToken Utility 
 
